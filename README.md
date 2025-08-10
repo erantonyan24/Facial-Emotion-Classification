@@ -7,7 +7,7 @@ I have developed a convolutional neural network (CNN) model using Keras, trained
 🔗 [Kaggle Dataset Link](https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer)
 
 📂 **Dataset Details**
-🎯 **Task:** Classify facial expressions into seven categories: Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral.
+🎯 **Task:** Classify facial expressions into seven categories: Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral..
 🏛 **Origin:** Collected and published by Kaggle user ananthu017.
 📊 **Structure:**
 
